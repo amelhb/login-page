@@ -1,0 +1,20 @@
+body{
+background-color :#e2856e;
+  background : #e2856e url("bg.jpg") ;
+  height: 100%; 
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-size: cover;
+}
+
+.well-lg {
+    border-top-color: #E2856E;
+   border-top-width: thick;
+padding: 24px;
+border-radius: 8px;
+margin-bottom: 20px;
+margin-top: 180px;
+    background-color: #F1E9DB;
+    border: 1px solid #e3e3e3;
+}
+
